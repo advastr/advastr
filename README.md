@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @advaster
-- 👀 I’m interested in simulating the light curve od delta scuti stars
+- 👀 I’m interested in simulating the light curve of delta scuti stars
 - 🌱 I’m currently learning python
 .
 
